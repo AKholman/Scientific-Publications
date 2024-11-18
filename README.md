@@ -7,30 +7,30 @@ This repository showcases a collection of selected publications, covering resear
 ### This repository highlights my expertise in the following technical domains:
 
 ##### Materials and Thin Films Synthesis
-Chemical Vapor Deposition (CVD)
-Physical Vapor Deposition (PVD): E-beam deposition, Magnetron sputtering
+Chemical Vapor Deposition (CVD),
+E-beam deposition, Magnetron sputtering,
 Atomic Layer Deposition (ALD)
 
 
 ##### Experimental Characterization Techniques
-Structural and Optical Properties: SEM/EDX, TEM, STM, Raman, UV-Vis-NIR, Ellipsometry
-Electron Spectroscopies: XPS, AES
+Structural and Optical Properties: SEM/EDX, TEM, STM, Raman, UV-Vis-NIR, Ellipsometry; 
+Electron Spectroscopies: XPS, AES; 
 Thermal Conductivity Measurement: DSC, Laser Flash Analysis (LFA)
 
 
 ##### Applications of Nanomaterials
-Transparent Conductive Films
-Thermal Energy Storage Systems and Thermal Management in Electronics
+Transparent Conductive Films, 
+Thermal Energy Storage Systems,
 Electrochromic Devices
 
 
 ##### Cleanroom and Vacuum Systems Experience
-Low, High, and Ultra-High Vacuum Systems
+Low, High, and Ultra-High Vacuum Systems,
 Cleanroom Fabrication and Processing
 
 ##### Experimental data analysis
-Data analysis of spectroscopy, microscopy and other experimental measurements 
-Exploratory data alaysis of experimental measurements 
+Data analysis of spectroscopy, microscopy and other experimental measurements, 
+Exploratory data alaysis of experimental measurements, 
 Data visualization
 
 
